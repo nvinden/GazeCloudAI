@@ -23,4 +23,6 @@ If you want to use this code with a different dataset, you must change the EyeTr
 ------------------------------------------------------------------
 
 #### Model
-The model of 
+![Failed to Find Model](https://github.com/nvinden/GazeCloudAI/blob/master/images/GazeCloudModel.png?raw=true)
+
+#### Results
